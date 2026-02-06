@@ -16,6 +16,9 @@ This file stores important information that should persist across sessions.
 
 ## Important Notes
 
+- Project Seldon: Fork of Nanobot focused on skills, security, and workflows.
+- Language: English.
+
 (Things to remember)
 
 ---

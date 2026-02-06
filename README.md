@@ -1,6 +1,6 @@
 <div align="center">
   <img src="nanobot_logo.png" alt="nanobot" width="500">
-  <h1>nanobot: Ultra-Lightweight Personal AI Assistant</h1>
+  <h1>Seldon: Enhanced Personal AI Assistant (Nanobot Fork)</h1>
   <p>
     <a href="https://pypi.org/project/nanobot-ai/"><img src="https://img.shields.io/pypi/v/nanobot-ai" alt="PyPI"></a>
     <a href="https://pepy.tech/project/nanobot-ai"><img src="https://static.pepy.tech/badge/nanobot-ai" alt="Downloads"></a>
@@ -12,7 +12,7 @@
   </p>
 </div>
 
-🐈 **nanobot** is an **ultra-lightweight** personal AI assistant inspired by [Clawdbot](https://github.com/openclaw/openclaw) 
+🐈 **Seldon** is a fork of Nanobot, designed to enhance skills, security, and human-collaborative workflows. It remains an **ultra-lightweight** personal AI assistant inspired by [Clawdbot](https://github.com/openclaw/openclaw)
 
 ⚡️ Delivers core agent functionality in just **~4,000** lines of code — **99% smaller** than Clawdbot's 430k+ lines.
 
@@ -23,9 +23,9 @@
 - **2026-02-05** ✨ Added Feishu channel, DeepSeek provider, and enhanced scheduled tasks support!
 - **2026-02-04** 🚀 Released v0.1.3.post4 with multi-provider & Docker support! Check [release notes](https://github.com/HKUDS/nanobot/releases/tag/v0.1.3.post4) for details.
 - **2026-02-03** ⚡ Integrated vLLM for local LLM support and improved natural language task scheduling!
-- **2026-02-02** 🎉 nanobot officially launched! Welcome to try 🐈 nanobot!
+- **2026-02-02** 🎉 Seldon project started! Welcome to try 🤖 Seldon!
 
-## Key Features of nanobot:
+## Key Features of Seldon:
 
 🪶 **Ultra-Lightweight**: Just ~3,400 lines of core agent code — 99% smaller than Clawdbot.
 
@@ -38,7 +38,7 @@
 ## 🏗️ Architecture
 
 <p align="center">
-  <img src="nanobot_arch.png" alt="nanobot architecture" width="800">
+  <img src="nanobot_arch.png" alt="Seldon architecture" width="800">
 </p>
 
 ## ✨ Features
@@ -171,7 +171,7 @@ nanobot agent -m "Hello from my local LLM!"
 
 ## 💬 Chat Apps
 
-Talk to your nanobot through Telegram, Discord, WhatsApp, or Feishu — anytime, anywhere.
+Talk to your Seldon agent through Telegram, Discord, WhatsApp, or Feishu — anytime, anywhere.
 
 | Channel | Setup |
 |---------|-------|
